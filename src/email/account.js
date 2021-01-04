@@ -30,7 +30,7 @@ function sendDeleteEmail(email, name) {
 
   // send mail with defined transport object
   transporterObject.sendMail({
-    from: 'Task Manager API <process.env.EMAIL_ADDRESS>',
+    from: `Task Manager API <${process.env.EMAIL_ADDRESS}>`,
     to: email,
     subject: 'We\'re sorry to see you leave',
     text: `We hope to see you back again someday, ${name}!`,
