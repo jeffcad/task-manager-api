@@ -7,7 +7,7 @@ This project allows a user to create an account and add tasks. User can login, l
 
 A Postman collection is provided for you to interact with the API. Click the button below.
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/10db075c3470e77b3cf6#?env%5BTask%20Manager%20API%20(prod)%5D=W3sia2V5IjoiaG9zdCIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZX1d)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/6cbf9ada37cea0d0277b#?env%5BTask%20Manager%20API%20(prod)%5D=W3sia2V5IjoiaG9zdCIsInZhbHVlIjoiaHR0cHM6Ly90YXNrLW1hbmFnZXItYXBpLWplZmZjYWQuaGVyb2t1YXBwLmNvbSIsImVuYWJsZWQiOnRydWV9XQ==)
 
 **Be sure to set your environment to "Task Manager API (prod)"**
 
